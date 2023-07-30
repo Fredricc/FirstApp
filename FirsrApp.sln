@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhileLoop", "DoWhileLoop\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop", "ForLoop\ForLoop.csproj", "{D55D8E72-9266-4C81-B19C-95DE02DEFDC6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "goto_loop", "goto_loop\goto_loop.csproj", "{759FE2D2-7A88-4299-9844-7D2E3BA89586}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D55D8E72-9266-4C81-B19C-95DE02DEFDC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D55D8E72-9266-4C81-B19C-95DE02DEFDC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D55D8E72-9266-4C81-B19C-95DE02DEFDC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{759FE2D2-7A88-4299-9844-7D2E3BA89586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759FE2D2-7A88-4299-9844-7D2E3BA89586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759FE2D2-7A88-4299-9844-7D2E3BA89586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759FE2D2-7A88-4299-9844-7D2E3BA89586}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
